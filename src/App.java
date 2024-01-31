@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("HOLA A TOTS");
+        System.out.println("Braian Pachón Barón, 21 anys");
     }
 }
